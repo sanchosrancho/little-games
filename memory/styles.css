@@ -2,3 +2,4 @@
 
 .language a{display:flex;align-items:center;justify-content:center;min-height:40px;min-width:44px;padding:9px 12px;border-radius:100px;color:var(--muted);text-decoration:none;font-size:14px}.language a[aria-current=true]{background:var(--plum);color:white}
 @media(max-width:620px){.hero h1{font-size:38px}.art-fan{width:92%}}
+@media(max-width:850px){.header{flex-wrap:wrap;gap:16px}.nav{width:100%;justify-content:space-between;order:3}.language{margin-left:auto}.hero{grid-template-columns:1fr}.art-fan{max-width:440px;margin-left:auto;margin-right:auto}}

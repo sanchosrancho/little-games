@@ -22,6 +22,6 @@
       if (next !== undefined) { event.preventDefault(); select(tabs[next], true); }
     });
   });
-  select(tabs[0]);
+  select(tabs.find(tab => tab.id === `tab-${list.dataset.defaultArena}`) || tabs[0]);
   list.hidden = false;
 })();

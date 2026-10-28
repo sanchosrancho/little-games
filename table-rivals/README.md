@@ -20,8 +20,9 @@ Reduced-motion preferences stop smooth scrolling and transitions.
 
 The CTA opens an email to `littlegamesios@gmail.com`. The current TestFlight beta
 is closed and has no public invitation URL. Replace the CTA and beta wording only
-after a public destination is available. Release pricing is intentionally unset:
-all tables are currently open in the beta and IAP is not connected.
+after a public destination is available. Classic is free. Full unlocks five extra
+tables and Arcade Cup with a non-consumable StoreKit purchase: €2.99 in Spain,
+with Apple equalization elsewhere. Restore is in the purchase screen.
 
 Online Game Center play is labelled beta. Two-device physical testing is still
 pending. Local play and computer matches work offline. Required OS: iOS/iPadOS 17.
